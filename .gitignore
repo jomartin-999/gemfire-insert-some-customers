@@ -1,0 +1,30 @@
+jar/
+gradle.properties
+.gitattributes
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# System Files
+.DS_Store
+
+# Ignore Gradle build output directory
+build
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# GemFire files
+BACKUP*
+locator*
+DRLK_IF*
+diskStore/
+tlsStoredFiles/
+logs/
+
