@@ -11,7 +11,7 @@ how to run from the project root dir
 
 call the `scripts/startGemFire.sh` to launch GemFire.
 
-call `./gradlew bootRun --args='10000'` to inject 10,000 Customers
+call `./gradlew bootRun --args='10000'` to inject 10,000 Products
 
 When done
 
